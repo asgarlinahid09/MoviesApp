@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  MoviesApp
+
+  Created by Nahid Askerli on 29.09.26.
+  
+*/
+
+"tab_home" = "Ana Səhifə";
+"tab_explore" = "Kəşf et";
+"tab_mylist" = "Siyahım";
+"tab_download" = "Yükləmələr";
+"tab_profile" = "Profil";
+"profile_title" = "Profil";
+"profile_edit_profile" = "Profili Redaktə Et";
+"profile_logout" = "Çıxış";
