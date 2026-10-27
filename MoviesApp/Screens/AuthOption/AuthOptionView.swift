@@ -11,6 +11,7 @@ import SwiftUI
 struct AuthOptionView: View {
     @Environment(AuthCoordinator.self) private var coordinator
 
+
     private let socialProviders: [(icon: String, title: String)] = [
         ("auth2", "Continue with Facebook"),
         ("auth3", "Continue with Google"),
